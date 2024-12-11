@@ -1,0 +1,44 @@
+[
+	{
+		"name":"Product build"
+		"cost":10
+		"uniqueTo":"Cheat nation"
+		"production":99
+	}
+	{
+		"name":"Food build"
+		"cost":10
+		"uniqueTo":"Cheat nation"
+		"food":99
+	}
+	{
+		"name":"Happy build"
+		"cost":10
+		"uniqueTo":"Cheat nation"
+		"happiness":99
+	}
+	{
+		"name":"Science build"
+		"cost":10
+		"uniqueTo":"Cheat nation"
+		"science":99
+	}
+	{
+		"name":"Culture build"
+		"cost":10
+		"uniqueTo":"Cheat nation"
+		"culture":99
+	}
+	{
+		"name":"Faith build"
+		"cost":10
+		"uniqueTo":"Cheat nation"
+		"faith":99
+	}
+	{
+		"name":"Gold build"
+		"cost":10
+		"uniqueTo":"Cheat nation"
+		"Gold":99
+	}
+]

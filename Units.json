@@ -1,0 +1,22 @@
+[
+	{
+		"name":"Cheat unit"
+		"unitType":"Sword"
+		"uniqueTo":"Cheat nation"
+		"strength":100
+		"uniques":["[+1] Sight"]
+		"movement": 4
+		"cost":10
+	}
+	{
+		"name":"Cheat archer"
+		"unitType":"Archery"
+		"uniqueTo":"Cheat nation"
+		"strength":100
+		"range":10
+		"rangedStrength":100
+		"uniques":["[+1] Sight"]
+		"movement": 4
+		"cost":10
+	}
+]

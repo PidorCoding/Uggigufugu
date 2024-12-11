@@ -1,0 +1,25 @@
+[
+	{
+		"name":"Cheat nation"
+		"leaderName":"Cheater"
+		"adjective":["Cheater"]
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Спидран по майнкрафту",
+		"startIntroPart2": "ПОЕХАЛИ",
+		"declaringWar": "Анонимус",
+		"attacked": "2+2=5",
+		"defeated": "Я просто не использовал читы",
+		"introduction": "У меня легальные читы",
+		
+		"neutralHello": "ку",
+		"neutralNo": ["аолалврвны"],
+		"neutralYes": ["ладно"],
+		"afterPeace": "я тебя пощадил",
+		"tradeRequest": "далалптпоппш",
+		"outerColor": [0,0,0],
+		"innerColor": [255,0,0],
+		"uniqueName":"Legal chits"
+		"cities":["Anonymos-grad", "Anonymous-city", "Anonymous-wille", "Cheat-city", "Cheat-whill", "Cheat-grad", "Unlegal-city", "Pentagon", "Atlantida", "Europa", "Africa", "America", "Asia", "Australia", "1000-7"]
+	}
+]
